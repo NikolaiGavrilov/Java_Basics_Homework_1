@@ -12,7 +12,6 @@ import java.util.Scanner;
 
 public class Calculator {
   public int calculate(char op, int a, int b) {
-      // Введите свое решение ниже
   int result = 0;
     if (op == '+'){
       result = a+b;
